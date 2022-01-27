@@ -355,7 +355,7 @@
 
         if (score <= 49) return '补补肾吧';
         if (score <= 99) return '挺能射啊';
-        if (score <= 149) return 'yuma看了直呼内行';
+        if (score <= 149) return '夕摩看了直呼内行';
         if (score <= 299) return '光速射精';
         return '请不要开挂';
     }
@@ -502,6 +502,4 @@
             }`;
         })
     }
-
-    console.log("不修改，好嘛？乱传又有什么用呢？(ˉ▽ˉ；)...");
 }) (window);
